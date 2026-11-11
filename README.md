@@ -4,7 +4,7 @@
 ========================================================= -->
 
 <div align="center">
-  <img src="./assets/banner.svg" alt="XDude — Your digital rhythm. For ideas worth keeping close." width="100%" />
+  <img src="./assets/xdude-github-banner.svg" alt="XDude — Your digital rhythm. For ideas worth keeping close." width="100%" />
 </div>
 
 <br />
