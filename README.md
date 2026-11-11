@@ -1,6 +1,6 @@
 <!-- =========================================================
   XDude — Product Studio Profile
-  Brand: Midnight Navy · Ice Blue · Chrome
+  Brand: Midnight Navy · Cyan · Chrome
 ========================================================= -->
 
 <div align="center">
@@ -10,7 +10,7 @@
 <br />
 
 <div align="center">
-  <a href="https://www.xdude.pro/"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Website-xdude.pro-00D4FF?style=for-the-badge&labelColor=080B12" alt="XDude website" /></a>
+  <a href="https://www.xdude.pro/"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Website-xdude.pro-00D4FF?style=for-the-badge&labelColor=080B12" alt="Xdude website" /></a>
   <a href="mailto:xdudelab@gmail.com"><img src="https://img.shields.io/badge/%F0%9F%93%A7_Email-Say_Hello-FFFFFF?style=for-the-badge&labelColor=080B12" alt="Email XDude" /></a>
   <a href="https://github.com/xdudepro"><img src="https://img.shields.io/badge/%E2%9C%A8_GitHub-xdudepro-FFFFFF?style=for-the-badge&labelColor=080B12" alt="XDude on GitHub" /></a>
 </div>
@@ -19,7 +19,7 @@
 
 <div align="center">
   <a href="https://www.xdude.pro/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2800&pause=1000&color=55DFFF&center=true&vCenter=true&width=780&height=58&lines=Your+digital+rhythm.;Ideas+worth+keeping+close.;Make+space+for+what+matters." alt="Your digital rhythm. Ideas worth keeping close." />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2400&pause=900&color=55DFFF&center=true&vCenter=true&width=760&height=58&lines=Your+digital+rhythm.;For+ideas+worth+keeping+close.;Build+with+clarity+and+purpose." alt="Your digital rhythm. For ideas worth keeping close." />
   </a>
 </div>
 
@@ -35,9 +35,9 @@
 
 ## 👋 About XDude
 
-> **Your digital rhythm.** A product studio for mobile and web apps planning productivity, and ideas worth keeping close.
+> **Your digital rhythm.** A product studio for mobile and web apps, planning, productivity, and ideas worth keeping close.
 
-XDude is about making useful digital products for the ideas, plans, and routines people want to keep close. From mobile apps to web experiences, the goal is simple: make technology feel thoughtful, clear, and genuinely useful in everyday life.
+XDude is a product studio focused on useful digital tools that improve everyday routines. We care about the whole experience — from the first rough idea to a product that feels thoughtful, clear, and calm to use.
 
 ### `xdude = { ... }`
 
@@ -45,7 +45,7 @@ XDude is about making useful digital products for the ideas, plans, and routines
 studio      : XDude
 focus       : Mobile and web apps
 interests   : Planning · Productivity · Ideas worth keeping close
-philosophy  : Useful, considered, and made with intention
+philosophy  : Useful, considered, and built with intention
 website     : https://www.xdude.pro/
 contact     : xdudelab@gmail.com
 ```
@@ -60,7 +60,7 @@ contact     : xdudelab@gmail.com
 
 | 🗓️ Planning | ⚡ Productivity | 💡 Ideas |
 |:--:|:--:|:--:|
-| Apps that help make plans feel clear and manageable. | Thoughtful experiences that help people focus on what matters. | Space for notes, sparks, and ideas worth keeping close. |
+| Apps that help make plans feel lighter. | Thoughtful experiences for focused days. | Space for notes, sparks, and ideas worth returning to. |
 
 </div>
 
@@ -83,7 +83,7 @@ contact     : xdudelab@gmail.com
 
 </div>
 
-We believe the best products make room for what matters: less noise, more clarity, and details that feel right.
+We believe the best digital products feel natural, not noisy — they give people clarity, momentum, and a better relationship with technology.
 
 <br />
 
