@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="560" viewBox="0 0 1280 560" role="img" aria-label="Got something worth building? Good products start with a good conversation. Email xdudelab@gmail.com">
+  <title>Got something worth building? — xdudelab@gmail.com</title>
+  <defs><linearGradient id="pbg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#111113"/><stop offset="1" stop-color="#050505"/></linearGradient>
+    <linearGradient id="pedge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFFFFF" stop-opacity=".22"/><stop offset=".5" stop-color="#FFFFFF" stop-opacity=".07"/><stop offset="1" stop-color="#FFFFFF" stop-opacity=".1"/></linearGradient>
+    <linearGradient id="ch" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset=".5" stop-color="#E4E4E7"/><stop offset="1" stop-color="#9F9FA8"/></linearGradient>
+    <linearGradient id="btn" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset=".55" stop-color="#E4E4E7"/><stop offset="1" stop-color="#B9B9C0"/></linearGradient>
+    <radialGradient id="glow" cx=".5" cy="0" r=".7"><stop offset="0" stop-color="#FFFFFF" stop-opacity=".09"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></radialGradient>
+    <linearGradient id="veil" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#050505" stop-opacity=".55"/><stop offset="1" stop-color="#050505" stop-opacity=".97"/></linearGradient>
+    <clipPath id="clip"><rect x="1" y="1" width="1278" height="558" rx="32"/></clipPath>
+  </defs>
+  <style>.ring { transform-box: fill-box; transform-origin: center; animation: r 3.2s ease-out infinite } @keyframes r { 0% { transform: scale(.96); opacity:.5 } 100% { transform: scale(1.12, 1.35); opacity:0 } } @media (prefers-reduced-motion: reduce) { .ring { animation:none; opacity:0 } }</style>
+  <rect x="1" y="1" width="1278" height="558" rx="32" fill="#050505"/>
+  <g clip-path="url(#clip)">
+    <svg x="-120" y="-260" width="1520" height="900" viewBox="640 -120 960 1240" preserveAspectRatio="xMidYMid slice" opacity=".35"><defs>
+    <linearGradient id="metal-a" x1="720" y1="0" x2="1320" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#080808" />
+      <stop offset=".18" stop-color="#343438" />
+      <stop offset=".31" stop-color="#d7d7db" />
+      <stop offset=".36" stop-color="#55555a" />
+      <stop offset=".42" stop-color="#f4f4f5" />
+      <stop offset=".49" stop-color="#454549" />
+      <stop offset=".68" stop-color="#a1a1aa" />
+      <stop offset=".82" stop-color="#252529" />
+      <stop offset="1" stop-color="#070707" />
+    </linearGradient>
+    <linearGradient id="metal-b" x1="1000" y1="-80" x2="1540" y2="960" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#101012" />
+      <stop offset=".24" stop-color="#77777c" />
+      <stop offset=".34" stop-color="#eeeeef" />
+      <stop offset=".4" stop-color="#55555a" />
+      <stop offset=".48" stop-color="#c5c5c9" />
+      <stop offset=".57" stop-color="#303034" />
+      <stop offset=".76" stop-color="#8b8b91" />
+      <stop offset="1" stop-color="#080808" />
+    </linearGradient>
+    <linearGradient id="metal-c" x1="850" y1="130" x2="1450" y2="960" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#080808" />
+      <stop offset=".26" stop-color="#5d5d62" />
+      <stop offset=".36" stop-color="#dadade" />
+      <stop offset=".43" stop-color="#414145" />
+      <stop offset=".51" stop-color="#f1f1f2" />
+      <stop offset=".59" stop-color="#4a4a4e" />
+      <stop offset=".8" stop-color="#99999f" />
+      <stop offset="1" stop-color="#070707" />
+    </linearGradient>
+    <filter id="soft-shadow" x="-30%" y="-20%" width="160%" height="150%">
+      <feGaussianBlur stdDeviation="18" />
+    </filter>
+  </defs>
+  <g opacity=".24" filter="url(#soft-shadow)" stroke="#d4d4d8" stroke-linecap="round">
+    <path d="M1050 -110C760 120 1320 235 1070 465S820 770 1160 1100" stroke-width="142" />
+    <path d="M1380 -100C1110 155 1570 325 1320 545S1110 800 1450 1110" stroke-width="112" />
+  </g>
+  <g opacity=".36" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M1010 -120C790 110 1250 220 1030 450S820 770 1120 1100" stroke="#030303" stroke-width="126" />
+    <path d="M1010 -120C790 110 1250 220 1030 450S820 770 1120 1100" stroke="url(#metal-a)" stroke-width="96" />
+    <path d="M1000 -120C780 110 1240 220 1020 450S810 770 1110 1100" stroke="#fff" stroke-opacity=".36" stroke-width="2" />
+    <path d="M1370 -130C1130 130 1550 300 1310 530S1110 800 1440 1120" stroke="#020202" stroke-width="106" />
+    <path d="M1370 -130C1130 130 1550 300 1310 530S1110 800 1440 1120" stroke="url(#metal-b)" stroke-width="78" />
+    <path d="M1362 -130C1122 130 1542 300 1302 530S1102 800 1432 1120" stroke="#fff" stroke-opacity=".3" stroke-width="1.7" />
+    <path d="M820 175C1080 345 720 505 990 660S1310 850 1020 1100" stroke="#030303" stroke-width="80" />
+    <path d="M820 175C1080 345 720 505 990 660S1310 850 1020 1100" stroke="url(#metal-c)" stroke-width="58" />
+    <path d="M812 175C1072 345 712 505 982 660S1302 850 1012 1100" stroke="#fff" stroke-opacity=".28" stroke-width="1.5" />
+  </g>
+</svg>
+    <rect width="1280" height="560" fill="url(#veil)"/>
+    <rect width="1280" height="560" fill="url(#glow)"/>
+  </g>
+  <rect x="1" y="1" width="1278" height="558" rx="32" fill="none" stroke="url(#pedge)" stroke-width="1.5"/>
+  <text x="640" y="120" text-anchor="middle" font-family="'Geist','Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="600" letter-spacing="5" fill="#A1A1AA">CONTACT</text>
+  <text x="640" y="222" text-anchor="middle" font-family="'Geist','Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="78" font-weight="700" letter-spacing="-3.4" fill="url(#ch)">Got something worth building?</text>
+  <text x="640" y="284" text-anchor="middle" font-family="'Geist','Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="32" fill="#A1A1AA">Good products start with a good conversation.</text>
+  <rect class="ring" x="340" y="350" width="600" height="104" rx="52" fill="none" stroke="#FFFFFF" stroke-opacity=".6" stroke-width="1.5"/>
+  <rect x="340" y="350" width="600" height="104" rx="52" fill="url(#btn)"/>
+  <text x="612" y="414" text-anchor="middle" font-family="'Geist','Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="34" font-weight="600" letter-spacing="-.6" fill="#050505">xdudelab@gmail.com</text>
+  <path d="M852 402h24m-9-9l9 9l-9 9" fill="none" stroke="#050505" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

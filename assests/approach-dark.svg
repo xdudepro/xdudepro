@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="550" viewBox="0 0 1280 550" role="img" aria-label="From idea to release. Product: a clear purpose. Craft: thoughtful by design. Delivery: built to ship.">
+  <defs><linearGradient id="ch" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FFFFFF"/><stop offset=".55" stop-color="#E4E4E7"/><stop offset="1" stop-color="#A1A1AA"/></linearGradient></defs>
+  <text x="4" y="40" font-family="'Geist','Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="600" letter-spacing="5" fill="#71717A">OUR APPROACH</text>
+  <text x="0" y="128" font-family="'Geist','Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="72" font-weight="700" letter-spacing="-3" fill="#FAFAFA">From idea to release.</text>
+  <text x="2" y="186" font-family="'Geist','Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="31" fill="#A1A1AA">Every product starts with a clear purpose and stays focused on what matters.</text>
+  <rect x="0" y="256" width="380" height="1.5" fill="#FFFFFF" fill-opacity=".14"/>
+  <rect x="0" y="255" width="64" height="3.5" fill="url(#ch)"/>
+  <text x="0" y="312" font-family="'Geist','Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="21" font-weight="600" letter-spacing="4" fill="#71717A">01  PRODUCT</text>
+  <text x="-2" y="370" font-family="'Geist','Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="39" font-weight="700" letter-spacing="-1.4" fill="#FAFAFA">A clear purpose</text>
+  <text y="422" font-family="'Geist','Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="28" fill="#A1A1AA"><tspan x="0" dy="0">Start with a real need.</tspan><tspan x="0" dy="40">Keep every feature</tspan><tspan x="0" dy="40">focused on solving it.</tspan></text>
+  <rect x="440" y="256" width="380" height="1.5" fill="#FFFFFF" fill-opacity=".14"/>
+  <rect x="440" y="255" width="64" height="3.5" fill="url(#ch)"/>
+  <text x="440" y="312" font-family="'Geist','Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="21" font-weight="600" letter-spacing="4" fill="#71717A">02  CRAFT</text>
+  <text x="438" y="370" font-family="'Geist','Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="39" font-weight="700" letter-spacing="-1.4" fill="#FAFAFA">Thoughtful by design</text>
+  <text y="422" font-family="'Geist','Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="28" fill="#A1A1AA"><tspan x="440" dy="0">Clear interfaces,</tspan><tspan x="440" dy="40">careful details, and</tspan><tspan x="440" dy="40">dependable foundations.</tspan></text>
+  <rect x="880" y="256" width="380" height="1.5" fill="#FFFFFF" fill-opacity=".14"/>
+  <rect x="880" y="255" width="64" height="3.5" fill="url(#ch)"/>
+  <text x="880" y="312" font-family="'Geist','Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="21" font-weight="600" letter-spacing="4" fill="#71717A">03  DELIVERY</text>
+  <text x="878" y="370" font-family="'Geist','Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="39" font-weight="700" letter-spacing="-1.4" fill="#FAFAFA">Built to ship</text>
+  <text y="422" font-family="'Geist','Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="28" fill="#A1A1AA"><tspan x="880" dy="0">Plan, develop, release,</tspan><tspan x="880" dy="40">and keep improving what</tspan><tspan x="880" dy="40">matters.</tspan></text>
+</svg>
