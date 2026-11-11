@@ -12,20 +12,16 @@
 <br />
 
 <div align="center">
-  <a href="https://www.xdude.pro/"><img src="https://img.shields.io/badge/Website-xdude.pro-FFFFFF?style=for-the-badge&labelColor=050505&logo=googlechrome&logoColor=E4E4E7" alt="XDude website" /></a>
-  <a href="https://www.xdude.pro/#apps"><img src="https://img.shields.io/badge/Apps-The_Collection-101010?style=for-the-badge&labelColor=050505&logo=googleplay&logoColor=E4E4E7" alt="XDude apps" /></a>
+  <a href="https://www.xdude.pro/"><img src="https://img.shields.io/badge/Website-xdude.pro-E4E4E7?style=for-the-badge&labelColor=050505&logo=googlechrome&logoColor=E4E4E7" alt="XDude website" /></a>
+  <a href="https://www.xdude.pro/#apps"><img src="https://img.shields.io/badge/Apps-The_Collection-18181B?style=for-the-badge&labelColor=050505&logo=googleplay&logoColor=E4E4E7" alt="XDude apps" /></a>
   <a href="mailto:xdudelab@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-E4E4E7?style=for-the-badge&labelColor=050505&logo=gmail&logoColor=E4E4E7" alt="Email XDude" /></a>
-  <a href="https://github.com/xdudepro"><img src="https://img.shields.io/badge/GitHub-xdudepro-101010?style=for-the-badge&labelColor=050505&logo=github&logoColor=E4E4E7" alt="XDude on GitHub" /></a>
+  <a href="https://github.com/xdudepro"><img src="https://img.shields.io/badge/GitHub-xdudepro-18181B?style=for-the-badge&labelColor=050505&logo=github&logoColor=E4E4E7" alt="XDude on GitHub" /></a>
 </div>
 
 <br />
 
 <div align="center">
-  <a href="https://www.xdude.pro/">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=1000&color=E4E4E7&center=true&vCenter=true&width=760&height=52&lines=Your+digital+rhythm.;For+ideas+worth+keeping+close.;Small+ideas.+Serious+execution.;Make+space+for+what+matters." alt="Your digital rhythm. For ideas worth keeping close." />
-  </a>
-  <br />
-  <sub><code>MOBILE APPS</code> &nbsp;·&nbsp; <code>WEB EXPERIENCES</code> &nbsp;·&nbsp; <code>FROM IDEA TO RELEASE</code></sub>
+  <a href="https://www.xdude.pro/"><img src="./assets/tagline.svg" alt="Your digital rhythm. For ideas worth keeping close. Small ideas. Serious execution." width="78%" /></a>
 </div>
 
 <br />
@@ -34,22 +30,7 @@
 
 ## `01` &nbsp;About XDude
 
-> **Thoughtfully crafted mobile products for planning, productivity, and ideas worth coming back to.**
-
-XDude is a product studio creating mobile and web apps — from the first idea to release. Every product starts with a clear purpose and stays focused on what matters: clear interfaces, careful details, and dependable foundations.
-
-We believe the best digital products feel natural, not noisy. They give people clarity, momentum, and a better relationship with technology.
-
-```yaml
-studio:     XDude
-tagline:    Your digital rhythm.
-focus:      [ Mobile apps, Web experiences, Digital products ]
-interests:  [ Planning, Productivity, Ideas worth keeping close ]
-stack:      { mobile: Flutter, web: React · Next.js, backend: Firebase · Supabase }
-motto:      Small ideas. Serious execution.
-website:    https://www.xdude.pro/
-contact:    xdudelab@gmail.com
-```
+<img src="./assets/about.svg" alt="About XDude — Small ideas. Serious execution. A product studio creating mobile and web apps from first idea to release." width="100%" />
 
 <br />
 
@@ -71,7 +52,7 @@ contact:    xdudelab@gmail.com
 </p>
 
 <div align="center">
-  <a href="https://www.xdude.pro/#apps"><img src="https://img.shields.io/badge/Browse_all_apps-xdude.pro-FFFFFF?style=for-the-badge&labelColor=050505" alt="Browse all XDude apps" /></a>
+  <a href="https://www.xdude.pro/#apps"><img src="https://img.shields.io/badge/Browse_all_apps-xdude.pro-E4E4E7?style=for-the-badge&labelColor=050505" alt="Browse all XDude apps" /></a>
 </div>
 
 <br />
@@ -116,14 +97,11 @@ contact:    xdudelab@gmail.com
 
 <a href="mailto:xdudelab@gmail.com"><img src="./assets/contact.svg" alt="Got something worth building? Good products start with a good conversation — xdudelab@gmail.com" width="100%" /></a>
 
-<br />
-<br />
-
-<div align="center">
-  <a href="https://www.xdude.pro/"><img src="https://img.shields.io/badge/Website-xdude.pro-FFFFFF?style=for-the-badge&labelColor=050505" alt="xdude.pro" /></a>
-  <a href="mailto:xdudelab@gmail.com"><img src="https://img.shields.io/badge/Email-xdudelab%40gmail.com-E4E4E7?style=for-the-badge&labelColor=050505" alt="xdudelab@gmail.com" /></a>
-  <a href="https://github.com/xdudepro"><img src="https://img.shields.io/badge/GitHub-%40xdudepro-3F3F46?style=for-the-badge&labelColor=050505" alt="@xdudepro" /></a>
-</div>
+<p align="center">
+  <a href="https://www.xdude.pro/"><img src="./assets/link-website.svg" alt="Website — xdude.pro" width="32.9%" /></a>
+  <a href="mailto:xdudelab@gmail.com"><img src="./assets/link-email.svg" alt="Email — xdudelab@gmail.com" width="32.9%" /></a>
+  <a href="https://github.com/xdudepro"><img src="./assets/link-github.svg" alt="GitHub — @xdudepro" width="32.9%" /></a>
+</p>
 
 <br />
 
