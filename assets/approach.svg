@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="220" viewBox="0 0 1280 220" role="img" aria-label="Product: a clear purpose. Craft: thoughtful by design. Delivery: built to ship.">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#101010"/><stop offset="1" stop-color="#050505"/></linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFFFFF" stop-opacity=".22"/><stop offset=".45" stop-color="#FFFFFF" stop-opacity=".08"/><stop offset="1" stop-color="#FFFFFF" stop-opacity=".05"/></linearGradient>
+    <linearGradient id="chrome" x1="0" y1="0" x2=".6" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset=".48" stop-color="#E4E4E7"/><stop offset="1" stop-color="#A1A1AA"/></linearGradient>
+    <pattern id="dots" width="12" height="12" patternUnits="userSpaceOnUse"><circle cx="6" cy="6" r=".6" fill="#FFFFFF" fill-opacity=".07"/></pattern></defs>
+  <style>.p { transform-box: fill-box; transform-origin: left; animation: grow 3.6s ease-in-out infinite } @keyframes grow { 0%,100% { transform: scaleX(1) } 50% { transform: scaleX(3) } } @media (prefers-reduced-motion: reduce) { .p { animation:none } }</style>
+  
+  <g transform="translate(1 0)">
+    <rect x="0" y="1" width="410" height="218" rx="16" fill="url(#bg)" stroke="url(#edge)"/>
+    <rect x="0" y="1" width="410" height="218" rx="16" fill="url(#dots)"/>
+    <text x="32" y="52" font-family="'Geist','Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="500" letter-spacing="2.6" fill="#A1A1AA">01  ·  PRODUCT</text>
+    <rect class="p" x="32" y="70" width="40" height="2" rx="1" fill="url(#chrome)" style="animation-delay:0.0s"/>
+    <text x="32" y="118" font-family="'Geist','Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="27" font-weight="600" letter-spacing="-.9" fill="#F4F4F5">A clear purpose</text>
+    <text font-family="'Geist','Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="16" fill="#A1A1AA"><tspan x="32" y="156">Start with a real need. Keep every</tspan><tspan x="32" dy="24">feature focused on solving it.</tspan></text>
+  </g>
+  <g transform="translate(428 0)">
+    <rect x="0" y="1" width="410" height="218" rx="16" fill="url(#bg)" stroke="url(#edge)"/>
+    <rect x="0" y="1" width="410" height="218" rx="16" fill="url(#dots)"/>
+    <text x="32" y="52" font-family="'Geist','Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="500" letter-spacing="2.6" fill="#A1A1AA">02  ·  CRAFT</text>
+    <rect class="p" x="32" y="70" width="40" height="2" rx="1" fill="url(#chrome)" style="animation-delay:0.6s"/>
+    <text x="32" y="118" font-family="'Geist','Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="27" font-weight="600" letter-spacing="-.9" fill="#F4F4F5">Thoughtful by design</text>
+    <text font-family="'Geist','Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="16" fill="#A1A1AA"><tspan x="32" y="156">Clear interfaces, careful details,</tspan><tspan x="32" dy="24">and dependable foundations.</tspan></text>
+  </g>
+  <g transform="translate(855 0)">
+    <rect x="0" y="1" width="410" height="218" rx="16" fill="url(#bg)" stroke="url(#edge)"/>
+    <rect x="0" y="1" width="410" height="218" rx="16" fill="url(#dots)"/>
+    <text x="32" y="52" font-family="'Geist','Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="500" letter-spacing="2.6" fill="#A1A1AA">03  ·  DELIVERY</text>
+    <rect class="p" x="32" y="70" width="40" height="2" rx="1" fill="url(#chrome)" style="animation-delay:1.2s"/>
+    <text x="32" y="118" font-family="'Geist','Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="27" font-weight="600" letter-spacing="-.9" fill="#F4F4F5">Built to ship</text>
+    <text font-family="'Geist','Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="16" fill="#A1A1AA"><tspan x="32" y="156">Plan, develop, release, and keep</tspan><tspan x="32" dy="24">improving what matters.</tspan></text>
+  </g>
+</svg>
