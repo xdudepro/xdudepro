@@ -1,44 +1,37 @@
-<!-- =========================================================
-  XDude — Product Studio Profile
-  Brand: Black #050505 · Zinc greys · White · Chrome (xdude.pro theme)
-========================================================= -->
+<!--
+  XDude — Product Studio
+  Palette (xdude.pro): Black #050505 · Zinc #A1A1AA / #71717A · Soft #E4E4E7 · White · Chrome
+-->
 
 <div align="center">
-  <a href="https://www.xdude.pro/">
-    <img src="./assets/xdude-github-banner.svg" alt="XDude — Your digital rhythm. For ideas worth keeping close." width="100%" />
-  </a>
+  <a href="https://www.xdude.pro/"><img src="./assets/xdude-github-banner.svg" alt="XDude — Your digital rhythm. For ideas worth keeping close." width="100%" /></a>
 </div>
 
 <br />
 
 <div align="center">
-  <a href="https://www.xdude.pro/"><img src="https://img.shields.io/badge/Website-xdude.pro-E4E4E7?style=for-the-badge&labelColor=050505&logo=googlechrome&logoColor=E4E4E7" alt="XDude website" /></a>
-  <a href="https://www.xdude.pro/#apps"><img src="https://img.shields.io/badge/Apps-The_Collection-18181B?style=for-the-badge&labelColor=050505&logo=googleplay&logoColor=E4E4E7" alt="XDude apps" /></a>
-  <a href="mailto:xdudelab@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-E4E4E7?style=for-the-badge&labelColor=050505&logo=gmail&logoColor=E4E4E7" alt="Email XDude" /></a>
-  <a href="https://github.com/xdudepro"><img src="https://img.shields.io/badge/GitHub-xdudepro-18181B?style=for-the-badge&labelColor=050505&logo=github&logoColor=E4E4E7" alt="XDude on GitHub" /></a>
+  <a href="https://www.xdude.pro/"><img src="./assets/nav-website.svg" alt="Website" width="23.5%" /></a>
+  <a href="https://www.xdude.pro/#apps"><img src="./assets/nav-apps.svg" alt="Apps" width="23.5%" /></a>
+  <a href="mailto:xdudelab@gmail.com"><img src="./assets/nav-email.svg" alt="Email" width="23.5%" /></a>
+  <a href="https://github.com/xdudepro"><img src="./assets/nav-github.svg" alt="GitHub" width="23.5%" /></a>
 </div>
 
 <br />
+<br />
 
-<div align="center">
-  <a href="https://www.xdude.pro/"><img src="./assets/tagline.svg" alt="Your digital rhythm. For ideas worth keeping close. Small ideas. Serious execution." width="78%" /></a>
+<a href="https://www.xdude.pro/"><img src="./assets/hero.svg" alt="Small ideas. Serious execution. A growing collection of software built around things worth doing better." width="100%" /></a>
+
+<br />
+<br />
+<br />
+
+<div align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/head-collection-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/head-collection-light.svg" />
+    <img src="./assets/head-collection-dark.svg" alt="The Collection — Thoughtfully crafted mobile products. For planning, productivity, and ideas worth coming back to." width="100%" />
+  </picture>
 </div>
-
-<br />
-
-<img src="./assets/divider.svg" alt="" width="100%" />
-
-## `01` &nbsp;About XDude
-
-<img src="./assets/about.svg" alt="About XDude — Small ideas. Serious execution. A product studio creating mobile and web apps from first idea to release." width="100%" />
-
-<br />
-
-<img src="./assets/divider.svg" alt="" width="100%" />
-
-## `02` &nbsp;The Collection
-
-<sub>A growing collection of software built around things worth doing better.</sub>
 
 <br />
 
@@ -51,62 +44,42 @@
   <a href="https://play.google.com/store/search?q=Soul%20Readings&c=apps"><img src="./assets/app-soul-readings.svg" alt="Soul Readings — Guidance for your journey." width="49%" /></a>
 </p>
 
-<div align="center">
-  <a href="https://www.xdude.pro/#apps"><img src="https://img.shields.io/badge/Browse_all_apps-xdude.pro-E4E4E7?style=for-the-badge&labelColor=050505" alt="Browse all XDude apps" /></a>
+<br />
+<br />
+<br />
+
+<div align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/approach-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/approach-light.svg" />
+    <img src="./assets/approach-dark.svg" alt="Our approach — From idea to release. Product: a clear purpose. Craft: thoughtful by design. Delivery: built to ship." width="100%" />
+  </picture>
 </div>
 
 <br />
-
-<img src="./assets/divider.svg" alt="" width="100%" />
-
-## `03` &nbsp;Our Approach
-
-<sub>From idea to release.</sub>
-
 <br />
 
-<img src="./assets/approach.svg" alt="Product — a clear purpose. Craft — thoughtful by design. Delivery — built to ship." width="100%" />
-
-<br />
-<br />
-
-<img src="./assets/divider.svg" alt="" width="100%" />
-
-## `04` &nbsp;Technology Stack
-
-<br />
-
-<img src="./assets/stack.svg" alt="Mobile: Flutter · Web: React, Next.js · Backend: Firebase, Supabase" width="100%" />
-
-<div align="center">
-  <br />
-  <img src="https://img.shields.io/badge/Flutter-101010?style=flat-square&logo=flutter&logoColor=E4E4E7" alt="Flutter" />
-  <img src="https://img.shields.io/badge/React-101010?style=flat-square&logo=react&logoColor=E4E4E7" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-101010?style=flat-square&logo=nextdotjs&logoColor=E4E4E7" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Firebase-101010?style=flat-square&logo=firebase&logoColor=E4E4E7" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Supabase-101010?style=flat-square&logo=supabase&logoColor=E4E4E7" alt="Supabase" />
+<div align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg" />
+    <img src="./assets/stack-dark.svg" alt="Technology stack — Flutter, Dart, React, Next.js, Firebase, Supabase." width="100%" />
+  </picture>
 </div>
 
 <br />
-
-<img src="./assets/divider.svg" alt="" width="100%" />
-
-## `05` &nbsp;Let's Talk
-
+<br />
 <br />
 
-<a href="mailto:xdudelab@gmail.com"><img src="./assets/contact.svg" alt="Got something worth building? Good products start with a good conversation — xdudelab@gmail.com" width="100%" /></a>
+<a href="mailto:xdudelab@gmail.com"><img src="./assets/cta.svg" alt="Got something worth building? Good products start with a good conversation — xdudelab@gmail.com" width="100%" /></a>
 
-<p align="center">
-  <a href="https://www.xdude.pro/"><img src="./assets/link-website.svg" alt="Website — xdude.pro" width="32.9%" /></a>
-  <a href="mailto:xdudelab@gmail.com"><img src="./assets/link-email.svg" alt="Email — xdudelab@gmail.com" width="32.9%" /></a>
-  <a href="https://github.com/xdudepro"><img src="./assets/link-github.svg" alt="GitHub — @xdudepro" width="32.9%" /></a>
-</p>
-
+<br />
 <br />
 
 <div align="center">
-  <img src="./assets/footer.svg" alt="Make space for what matters. XDude — Your digital rhythm." width="100%" />
-  <br />
-  <sub>© 2026 XDude · Crafted with intention</sub>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg" />
+    <img src="./assets/footer-dark.svg" alt="Make space for what matters. XDude — Your digital rhythm." width="100%" />
+  </picture>
 </div>
