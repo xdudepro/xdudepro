@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="24" viewBox="0 0 1280 24" role="img" aria-label="divider">
   <defs>
-    <linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#A1A1AA" stop-opacity="0"/><stop offset=".5" stop-color="#A1A1AA" stop-opacity=".45"/><stop offset="1" stop-color="#A1A1AA" stop-opacity="0"/></linearGradient>
+    <linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#A1A1AA" stop-opacity="0"/><stop offset=".5" stop-color="#71717A" stop-opacity=".6"/><stop offset="1" stop-color="#A1A1AA" stop-opacity="0"/></linearGradient>
     <linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/><stop offset=".5" stop-color="#FFFFFF"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient>
   </defs>
   <style>.glint { animation: run 5s ease-in-out infinite } @keyframes run { 0% { transform: translateX(-200px) } 60%,100% { transform: translateX(1280px) } } @media (prefers-reduced-motion: reduce) { .glint { animation:none; opacity:0 } }</style>
